@@ -1,0 +1,209 @@
+#links-actions * {
+    font-size: 13px;
+}
+
+#links-actions .links {
+    width: 1000px;
+}
+
+body, h1 {
+    font-family: Arial;
+}
+
+body.bugs-skytide-com > div[align="center"] {
+    display: none;
+}
+
+body.bugs-skytide-com table form {
+    display: block;
+    float: left;
+    width: auto;
+}
+
+body.bugs-skytide-com table tbody tr td * {
+    font-size: 13px;
+}
+
+body.bz_bug #banner-name {
+    background-color: #e7e7e7;
+}
+
+body.bz_bug #header {
+    margin-bottom: 1.5em;
+    margin-top: 1em;
+}
+
+body.bz_bug .bz_comment {
+    background-color: transparent;
+}
+
+body.bz_bug .bz_comment i {
+    font-weight: bold;
+}
+
+body.bz_bug .bz_comment i > a {
+    font-size: 120%;
+}
+
+body.bz_bug > a, body.bz_bug > b, body.bz_bug {
+    font-size: 10pt;
+}
+
+body.bz_bug > form > div > table > tbody > tr > td {
+    white-space: nowrap;
+}
+
+body.bz_bug > form > p > font > b > a {
+    font-size: 10pt;
+}
+
+body.bz_bug > form > table > tbody > tr > td > table > tbody > tr > td > input {
+    background-color: #e7e7e7;
+    padding: 0 4pt 0 4pt;
+    width: 1000px;
+}
+
+body.bz_bug > form > table > tbody > tr > td > table > tbody > tr > td > input[name="short_desc"] {
+    font-size: 16pt ;
+    font-weight: bold;
+    line-height: 26pt;
+    padding: 4pt;
+}
+
+body.bz_bug > form > table[cellpadding="4"] {
+    border: 1px solid #ccc;
+    font-size: 8pt;
+}
+
+body.bz_bug > form > table[cellpadding="4"] * {
+    border: 0px;
+    font-weight: normal;
+}
+
+body.bz_bug > form > table[cellpadding="4"] a {
+    font-size: 8pt ;
+    text-decoration: none;
+}
+
+body.bz_bug a {
+    text-decoration: none;
+}
+
+body.bz_bug a:hover {
+    text-decoration: underline;
+}
+
+body.bz_bug form a {
+    text-decoration: none;
+}
+
+body.bz_bug form a > u {
+    text-decoration: none;
+}
+
+body.bz_bug form a:hover {
+    text-decoration: underline;
+}
+
+body.bz_bug form b > u {
+    text-decoration: none;
+}
+
+body.bz_bug form div pre {
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 0.3em;
+    font-family: Arial ;
+    margin-bottom: 18px;
+    margin-top: 4px;
+    padding: 1em;
+}
+
+body.bz_bug form div pre#comment_text_0 {
+    font-size: 120%;
+    font-weight: bold;
+}
+
+body.bz_bug form input {
+    border: 1px solid #ccc;
+}
+
+body.bz_bug form select {
+    width: 300px;
+}
+
+body.bz_bug, body.bz_bug #header {
+    background: #e7e7e7;
+}
+
+/* == bug list ======================================= */
+
+/* == show bug ======================================= */
+
+p#banner-version {
+    display: none;
+}
+
+select {
+    -moz-border-radius: 3px;
+    -webkit-appearance: menulist;
+    -webkit-border-radius: 3px;
+    -webkit-box-align: center;
+    background-color: #efefef;
+    border: 1px solid #BBB;
+    border-radius: 3px;
+    box-sizing: border-box;
+    color: #555;
+    display: inline-block;
+    font-size: 14px;
+    height: 24px;
+    line-height: 24px;
+    margin: 0;
+    margin-bottom: 9px;
+    outline-offset: -2px;
+    padding: 0px 2px;
+    vertical-align: middle;
+    width: 220px;
+}
+
+select[multiple="multiple"] {
+    height: 100px;
+}
+
+table.bz_buglist {
+    font-size: 11pt;
+    margin-bottom: 2em;
+    margin-top: 2em;
+}
+
+table.bz_buglist tr a {
+    text-decoration: none;
+}
+
+table.bz_buglist tr a:hover {
+    text-decoration: underline;
+}
+
+table.bz_buglist tr td {
+    border-bottom-width: 1px;
+    border-color: #ccc;
+    border-style: solid;
+}
+
+table.bz_buglist tr td:first-child {
+    border-left: 1px solid #ccc;
+}
+
+table.bz_buglist tr td:last-child {
+    border-right: 1px solid #ccc;
+}
+
+table.bz_buglist tr th {
+    background-color: #ccc;
+    height: 1.6em;
+}
+
+table.bz_buglist tr:hover {
+    background-color: ivory;
+}
+
